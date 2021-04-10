@@ -3,6 +3,7 @@
 
 🏹 Draw arrows between DOM elements in React 🖋
 
+This is a fork of react-archer that makes this library usable for sankey diagrams
 ## Installation
 
 `npm install react-archer --save` or `yarn add react-archer`
